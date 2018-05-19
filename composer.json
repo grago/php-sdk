@@ -1,4 +1,9 @@
 {
     "name" : "grago/php-sdk",
-    "description" : "Mercadolibre PHP SDK"
+    "description" : "Mercadolibre PHP SDK",
+    "autoload": {
+        "psr-4": {
+            "Meli\\": "Meli/"
+        }
+    }    
 }
