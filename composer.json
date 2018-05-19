@@ -1,1 +1,4 @@
-{}
+{
+    "name" : "grago/php-sdk",
+    "description" : "Mercadolibre PHP SDK"
+}
